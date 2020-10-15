@@ -1,4 +1,4 @@
-#FinanceCalc
+# FinanceCalc
 ## Financial Calculators for a Small Company
 
 The program is written in Python to and is menu driven allowing the user to select which of the financial calculators they would like to use.
